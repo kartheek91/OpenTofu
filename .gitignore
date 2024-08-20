@@ -1,0 +1,7 @@
+# Ignore Terraform provider binaries
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+*.tfplan
