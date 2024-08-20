@@ -139,4 +139,5 @@ Check the portal to view the resources present. In our case, it’s a simple res
 Conclusion:
 
 **OpenTofu** is a powerful infrastructure-as-code tool similar to Terraform, allowing programmatic management of cloud and IT resources. It supports planning, applying changes, and managing infrastructure states with integration for providers like Azure and AWS.
+Please find the complete code at this URL: [https://github.com/kartheek91/OpenTofu.git](https://github.com/kartheek91/OpenTofu.git).
 
